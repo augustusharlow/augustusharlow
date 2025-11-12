@@ -1,8 +1,6 @@
 # Hello! :wave:
 
-* :student: I'm Augustus
-* :open_book: I'm interested in Accounting, Finance, and Computer Science
-* :computer: I'm currently learning Python
+* :open_book: Featuring anything I find interesting or useful
+* :computer: Currently learning C++
 * :incoming_envelope: How to reach me:
   * Email: aharlow2022@gmail.com
-  * LinkedIn: https://www.linkedin.com/in/augustusharlow/
